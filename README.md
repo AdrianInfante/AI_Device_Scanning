@@ -1,4 +1,4 @@
-# AI_Device_Scanning
+# Device_Scanning
 
 This program was one my firts program in C#. Created 03/08/2022 
 
